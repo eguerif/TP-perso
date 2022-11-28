@@ -42,7 +42,6 @@ private:
     QNetworkReply *pokemonReply;
     QNetworkReply *imgReply;
     QStack<int> *Precedentpoke;
-    int id;
 
 };
 
